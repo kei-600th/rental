@@ -1,0 +1,1 @@
+docker-compose run web rails g controller articles
