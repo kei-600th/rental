@@ -1,1 +1,2 @@
 docker-compose run web rails g controller articles
+docker-compose run web rails db:migrate
